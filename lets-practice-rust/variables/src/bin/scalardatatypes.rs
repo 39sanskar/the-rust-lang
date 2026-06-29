@@ -82,5 +82,6 @@ fn main() {
 }
 
 
+
 // How to run this file 
 // cargo run --bin scalardatatypes 
